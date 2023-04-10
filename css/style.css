@@ -1522,7 +1522,7 @@ body {
   .item-tile-team.tile-main .tile-info-wrap {
     padding-top: 3rem;
     padding-bottom: 6rem;
-    min-height: 216px;
+    min-height: 0;
     font-size: 16px;
   }
   .item-tile-team .tile-more-wrap {
@@ -1743,7 +1743,6 @@ body {
   .item-tile-team.tile-main .tile-info-wrap {
     padding-top: 8rem;
     padding-bottom: 10rem;
-    min-height: 324px;
   }
   .item-tile-team.tile-main .tile-more-wrap {
     margin-top: -9rem;
